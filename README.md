@@ -1,4 +1,7 @@
 # MY PERSONAL PROJECT AS A TEST FROM ONE OF THE COMPANY THAT CONTACTED ME
+![2022-09-30 21 14 50 127 0 0 1 001dfde4a5f1](https://user-images.githubusercontent.com/105652124/193289464-473296a2-a039-4699-b2bd-ec38ebd1d6a0.png)
+![2022-09-30 21 15 34 127 0 0 1 81104fefa1be](https://user-images.githubusercontent.com/105652124/193289573-af8e280d-36a3-4f74-90f9-f34fcc5ee55d.png)
+![2022-09-30 21 16 08 127 0 0 1 bfb28e8c7a27](https://user-images.githubusercontent.com/105652124/193289708-9e392924-9a52-4218-8a12-ab4e23ceeb43.png)
 
 ## Stack
 * Laravel / PHP
@@ -64,4 +67,4 @@
 * Deeper with php artisan to know that route actions doesn't properly refreshed with reload
 * Wrestling with API doesn't returning JSON because of authentication problems
 
-Link: Still can be run locally with php artisan serve after migration, still debugging in deployment to heroku especially with Procfile web: vendor/bin/heroku-php-apache2 public/ not found
+Link: Still can be run locally with php artisan serve after migration, still debugging in deployment to heroku especially with Procfile (web: vendor/bin/heroku-php-apache2 public/ not found in heroku log --tail) 
