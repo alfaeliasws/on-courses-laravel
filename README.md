@@ -64,4 +64,4 @@
 * Deeper with php artisan to know that route actions doesn't properly refreshed with reload
 * Wrestling with API doesn't returning JSON because of authentication problems
 
-Link: 
+Link: Still can be run locally with php artisan serve after migration, still debugging in deployment to heroku especially with Procfile web: vendor/bin/heroku-php-apache2 public/ not found
