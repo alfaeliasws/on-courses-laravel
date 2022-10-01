@@ -71,6 +71,7 @@
 * Wrestling with API doesn't returning JSON because of authentication problem
 
 Link: https://on-courses-heroku.herokuapp.com/ it is live, still working to update front end features with api provided and still working to make the picture be able to be uploaded to cloudinary
+Update: Upload to cloudinary is able right now
 
 Use these accounts for admin access
 * Username: admin6 password:123456
