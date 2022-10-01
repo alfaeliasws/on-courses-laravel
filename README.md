@@ -68,6 +68,6 @@
 * Authorization with api, end up using web middleware in api so I can acccess the user then I can authenticate it based on their stored information
 * Learning so much about middleware and route
 * Deeper with php artisan to know that route actions doesn't properly refreshed with reload
-* Wrestling with API doesn't returning JSON because of authentication problems
+* Wrestling with API doesn't returning JSON because of authentication problem
 
-Link: Still can be run locally with php artisan serve after migration, still debugging in deployment to heroku especially with Procfile (web: vendor/bin/heroku-php-apache2 public/ not found in heroku log --tail) 
+Link: https://on-courses-heroku.herokuapp.com/ it is live, still working to update front end features with api provided and still working to make the picture be able to be uploaded to cloudinary
