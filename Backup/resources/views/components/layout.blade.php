@@ -24,6 +24,6 @@
         </div>
     </div>
 <x-flash-message/>
-<script defer src="{{asset('animation.js')}}"></script>
+<script defer src="{{asset('/storage/animation.js')}}" defer></script>
 </body>
 </html>

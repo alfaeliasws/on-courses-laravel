@@ -11,7 +11,7 @@
                     </p>
             </div>
             <div class="flex lg:w-5/12 w-full sm:mt-10 mt-10 px-auto sn:pl-5 pl-0 2xl:justify-center md:justify-center sm:justify-center lg:mt-0 lg:items-center justify-center">
-                <img src="{{asset("LogoBlack.png")}}" class="rounded-lg fade-3 shadow-skill xl:h-[400px] lg:h-[350px] sm:h-[300px] h-[300px] object-contain"/>
+                <img src="{{asset("/storage/images/LogoBlack.png")}}" class="rounded-lg fade-3 shadow-skill xl:h-[400px] lg:h-[350px] sm:h-[300px] h-[300px] object-contain"/>
             </div>
         </div>
 

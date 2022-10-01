@@ -1,7 +1,7 @@
 <div {{$attributes->merge(['class' => "bg-neutral-900 flex w-full space-between"])}} >
     <a href="/"" name="logo" class="w-2/12">
         <div >
-            <img class="check my-5 ml-5 lg:h-20 md:h-10 sm:h-8" src="{{asset("LogoWhite.png")}}"/>
+            <img class="check my-5 ml-5 lg:h-20 md:h-10 sm:h-8" src="{{asset("storage/images/LogoWhite.png")}}"/>
         </div>
     </a>
     <div class="sm:w-5/12 invisible sm:visible"></div>
