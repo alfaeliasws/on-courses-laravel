@@ -73,11 +73,11 @@
 Link: https://on-courses-heroku.herokuapp.com/ it is live, still working to update front end features with api provided and still working to make the picture be able to be uploaded to cloudinary
 
 Use these accounts for admin access
-Username: admin6 password:123456
-Username: admin7 password:123456
-Username: admin8 password:123456
-Username: admin9 password:123456
-Username: admin10 password:123456
+* Username: admin6 password:123456
+* Username: admin7 password:123456
+* Username: admin8 password:123456
+* Username: admin9 password:123456
+* Username: admin10 password:123456
 
 
 Register for User access
